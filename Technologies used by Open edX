@@ -1,8 +1,9 @@
-**Open edX Technologies:**
-Here, we will provide a simple prief of each technology used in Open Edx. 
-And me provide resources for it for further description.
+#Technologies used by Open edX
+Here, we will provide a simple prief of each technology used in Open Edx. And me provide resources for it for further description.
 
-**Django** 
+### 
+
+###Django
 Django is a free and open source web application framework, written in Python, which follows the model–view–controller (MVC) architectural pattern.
 It is maintained by the Django Software Foundation (DSF).
 Django is a free and open source web application framework, written in Python. 
